@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://t.me/zezinh0" target="blank"><img align="center" src="https://macmagazine.com.br/wp-content/uploads/2019/05/16-telegram.jpg" alt="zezinhorey" height="100" width="120" /></a>
+<a href="http://t.me/zezinh0" target="blank"><img align="center" src="https://macmagazine.com.br/wp-content/uploads/2019/05/16-telegram.jpg" alt="zezinhorey" height="80" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
