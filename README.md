@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezinhorey" alt="zezinhorey" /></a> </p>
 
-- 🔭 I’m currently working on [AOSPK - The Kraken Project](https://github.com/AOSPK)
+- 🔭 I’m working on [AOSPK - The Kraken Project](https://github.com/AOSPK)
 
 - 🌱 I’m currently learning **ROM building**
 
