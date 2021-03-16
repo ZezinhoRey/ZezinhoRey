@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://t.me/zezinh0" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Telegram-Logo.png" alt="kedarearyan" height="40" width="64" /></a>
+<a href="http://t.me/zezinh0" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Telegram-Logo.png" alt="kedarearyan" height="80" width="104" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
