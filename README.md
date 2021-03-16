@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AOSPK - The Kraken Project](https://github.com/AOSPK)
 
-- 🌱 I’m currently learning **how to build roms**
+- 🌱 I’m currently learning **ROM building**
 
 - 💬 I’m interested in **building ROMs**
 
