@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezinhorey&label=Profile%20views&color=0e75b6&style=flat" alt="zezinhorey" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankedare" alt="aryankedare" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zezinhoapenas" target="_blank"><img src="https://img.shields.io/twitter/follow/zezinhoapenas?logo=twitter&style=for-the-badge" alt="zezinhoapenas" /></a> </p>
-
 - 🔭 I’m interested in beeing dumb and building ROMs
 - 🌱 I’m currently learning how to build roms
 - 📫 How to reach me: pm on telegram @zezinh0
