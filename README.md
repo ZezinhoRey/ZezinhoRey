@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ROM building**
 
-- 💬 I’m interested in **stuff and rom building**
+- 💬 I’m interested in **Android stuff and rom building**
 
 - 📫 How to reach me **zdrakfontz0@gmail.com**
 
