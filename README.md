@@ -7,9 +7,9 @@
 
 - 🔭 I’m working on [AOSPK - The Kraken Project](https://github.com/AOSPK)
 
-- 🌱 I’m currently learning **ROM building**
+- 🌱 I’m currently learning **how to build custom ROMs**
 
-- 💬 I’m interested in **Android stuff and rom building**
+- 💬 I’m interested in **Android stuff and ROM building**
 
 - 📫 How to reach me **zdrakfontz0@gmail.com**
 
